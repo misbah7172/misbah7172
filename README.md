@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 ![snake gif](https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg)

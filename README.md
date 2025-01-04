@@ -70,6 +70,6 @@
 </div>
 
 <div align="center" style="border-radius: 10px; border: 2px solid #2e3a46; padding: 20px; background-color: #161b22; color: white; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
-  <h3 style="font-family: 'Arial', sans-serif; font-size: 20px; margin-bottom: 10px; color: #42b983;">GitHub Snake Animation</h3>
-  <img width="300" src="https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg" alt="Snake GIF" />
+  <h3 style="font-family: 'Arial', sans-serif; font-size: 20px; margin-bottom: 10px; color: #42b983;">GitHub Snake</h3>
+  <img width="400" src="https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg" alt="Snake GIF" />
 </div>

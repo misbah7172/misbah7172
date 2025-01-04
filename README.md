@@ -7,30 +7,19 @@
 <h3 align="center">A passionate CS Student from Bangladesh </h3>
 
 <div align="center">
-  <h2>👋 Hi there! I'm <b>Misbah</b></h2>
-
-  <p>🔭 Currently searching for **a job**!</p>
   
-  <p>🌱 I’m currently learning <b>Docker, Supabase, and AWS</b></p>
-  
-  <p>💬 Ask me about <b>Node.js, React, Firebase</b>... or anything you like! Feel free to ask [here](https://tinyurl.com/Misbah7172).</p>
+  ## 👋 Hi there! I'm **Misbah** 👨‍💻
 
-  <p>⚡ **Fun fact**: Breaking Bad's <b>Heisenberg's iconic blue meth</b> is made using a technique called "crystal formation," but... the real secret is the <b>blue-colored sugar crystals!</b></p>
+  🔭 **Currently Searching for a Job**  
+  🌱 **Learning**: Docker, Supabase, AWS  
+  💬 Ask me about **Node.js, React, Firebase**, or anything [here](https://tinyurl.com/Misbah7172)
 
-  <hr style="width: 50%; border: 1px solid #e3e4e8;">
+  📈 **Current Projects**:  
+  - 🚀 **AI Project** for health recommendations (based on weight, height, etc.)
+  - 🌍 **Submarine Communication Model** for long-distance data transmission in ocean environments.
 
-  <h3>🌟 About Me:</h3>
-  <ul>
-    <li>💼 Passionate developer with a love for building modern web applications.</li>
-    <li>📚 Always learning and expanding my tech stack!</li>
-    <li>🎮 Gaming enthusiast—whether it's coding or enjoying a good video game!</li>
-    <li>🌍 Exploring cloud technologies to make applications scalable and efficient.</li>
-  </ul>
+  🌟 **Goal**: Continuously improve and learn new technologies to build innovative solutions.
 
-  <hr style="width: 50%; border: 1px solid #e3e4e8;">
-  
-  <h3>Let's Connect! 🤝</h3>
-  <p>Feel free to reach out if you want to chat about technology, collaboration, or just to say hi!</p>
 </div>
  
 <div align="center"> 

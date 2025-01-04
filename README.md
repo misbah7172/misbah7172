@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph/?username=misbah7172&theme=react&border_radius=10" alt="Recent GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=misbah7172&theme=react&border_radius=10" alt="Recent GitHub Activity" />
 </div>
 
 <div align="center">

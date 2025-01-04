@@ -66,4 +66,8 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img width="400" src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
+</div>
+
 ![snake gif](https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg)

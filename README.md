@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=misbah7172.misbah7172" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+Habibullah+Misbah!;" />
 </h1>
@@ -66,8 +64,9 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img width="400" src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
+<div align="center" style="border-radius: 15px; border: 2px solid #42b983; padding: 20px; background-color: #1f2328; color: white;">
+  <h3>Profile Visitor Count</h3>
+  <img width="300" src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
 </div>
 
 ![snake gif](https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg)

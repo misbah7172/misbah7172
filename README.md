@@ -66,4 +66,8 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=misbah7172&show_icons=true&count_private=true&hide=prs&theme=react&border_radius=10" alt="GitHub Activity Stats" />
+</div>
+
 ![snake gif](https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg)

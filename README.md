@@ -45,15 +45,15 @@
 <hr/>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=misbah7172&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=misbah7172&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=misbah7172&show_icons=true&theme=react&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img  src="https://github-readme-stats-salesp07.vercel.app/api?username=misbah7172&show_icons=true&theme=react&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=misbah7172&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -61,15 +61,15 @@
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
 </div>
 
 <div align="center" style="border-radius: 10px; border: 2px solid #2e3a46; padding: 20px; background-color: #161b22; color: white; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   <h3 style="font-family: 'Arial', sans-serif; font-size: 20px; margin-bottom: 10px; color: #42b983;">Profile Visitor</h3>
-  <img width="300" src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
+  <img  src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
 </div>
 
 <div align="center" style="border-radius: 10px; border: 2px solid #2e3a46; padding: 20px; background-color: #161b22; color: white; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   <h3 style="font-family: 'Arial', sans-serif; font-size: 20px; margin-bottom: 10px; color: #42b983;">GitHub Snake</h3>
-  <img width="400" src="https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg" alt="Snake GIF" />
+  <img src="https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg" alt="Snake GIF" />
 </div>

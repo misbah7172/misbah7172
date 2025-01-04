@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-activity-graph.cyclic.app/graph/?username=misbah7172&theme=react&bg_color=0d1117&border_radius=10" alt="Recent GitHub Activity" />
+  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph/?username=misbah7172&theme=react-dark&bg_color=0d1117&border_radius=10" alt="Recent GitHub Activity" />
 </div>
 
 ![snake gif](https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg)

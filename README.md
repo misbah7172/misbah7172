@@ -64,7 +64,7 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
 </div>
 
-<div align="center" style="border-radius: 15px; border: 2px solid #42b983; padding: 20px; background-color: #1f2328; color: white;">
+<div align="center" style="border-radius: 10px; border: 2px solid #2e3a46; padding: 20px; background-color: #161b22; color: white;">
   <h3>Profile Visitor Count</h3>
   <img width="300" src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
 </div>

@@ -48,4 +48,8 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbah7172&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=misbah7172&show_icons=true&theme=react&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+</div>
+
 ![snake gif](https://github.com/misbah7172/misbah7172/blob/output/github-snake-dark.svg)

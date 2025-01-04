@@ -64,7 +64,7 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=misbah7172&theme=react&no-frame=true&border_radius=10" alt="GitHub Trophies" />
 </div>
 
-<div align="center" style="border-radius: 15px; border: 2px solid #2e3a46; padding: 20px; background: linear-gradient(145deg, #1e2a34, #2c3e50); color: white; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);">
+<div align="center" style="border-radius: 10px; border: 2px solid #2e3a46; padding: 20px; background-color: #161b22; color: white; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
   <h3 style="font-family: 'Arial', sans-serif; font-size: 20px; margin-bottom: 10px; color: #42b983;">Profile Visitor</h3>
   <img width="300" src="https://profile-counter.glitch.me/misbah7172/count.svg" alt="Visitor Count" />
 </div>

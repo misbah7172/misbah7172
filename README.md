@@ -3,8 +3,6 @@
 </h1>
 
 <div align="center">
-  
-  ## 👋 Hi there! I'm **Misbah** 👨‍💻
 
   🔭 **Currently Searching for a Job**  
   🌱 **Learning**: Docker, Python, NodeJS, React, Data Analysis Tools  

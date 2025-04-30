@@ -22,7 +22,6 @@
 </div>
 
  <hr/>
-<br/>
 <hr/
  </div>
 <div align="center">
@@ -30,10 +29,6 @@
  </div>
 <div align="center">
   <img  src="https://github-readme-stats-salesp07.vercel.app/api?username=misbah7172&show_icons=true&theme=react&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=misbah7172&theme=react&border_radius=10" alt="Recent GitHub Activity" />
 </div>
 
 <div align="center">

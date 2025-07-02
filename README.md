@@ -214,10 +214,6 @@ Other        18 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-If you find my work helpful or interesting, consider giving it a ⭐️!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/misbah7172)
-
 **Fun Fact**: I believe that technology should be used to solve real-world problems and make life better for everyone! 🌍✨
 
 </div>

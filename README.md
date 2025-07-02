@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB90F&center=true&vCenter=true&width=435&lines=Software+Engineer+%26+AI+Enthusiast;Full-Stack+Developer;IoT+%26+Robotics+Developer;Machine+Learning+Engineer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/misbah7172)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-habibulla-misba)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/misbah244176)
-
-</div>
-
 ---
 
 ## 🚀 About Me

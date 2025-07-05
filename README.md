@@ -205,8 +205,6 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cut
   
 ### 🎯 "Turning Ideas into Reality, One Line of Code at a Time"
 
-![Visitor Count](https://profile-counter.glitch.me/misbah7172/count.svg)
-
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>

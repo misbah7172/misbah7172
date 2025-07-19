@@ -16,16 +16,6 @@
 
 I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cutting-edge technologies including AI, IoT, Programming, and Robotics. I thrive on transforming complex problems into elegant solutions and creating innovative applications that make a real difference.
 
-- 🎓 **Computer Science & Engineering Student** at United International University (2022-2026)
-- 💼 **Software Associate** at UIU CanSat Team (2024-Present)
-- 🔬 **Former Software Associate** at UIU Mars Rover Team (2023)
-- 🛠️ **Former Software Intern** at GAO Tek Inc. (Code Debugging & Error Fixing)
-- 🌱 Always learning and exploring new technologies
-- 📍 Based in Dhaka, Bangladesh
-
----
-
-
 
 ## 📊 GitHub Statistics
 

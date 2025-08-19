@@ -62,8 +62,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cut
 
 ### 🚀 Check out my projects and blog posts!
 
-[![View My Projects](https://img.shields.io/badge/�_View_Projects-GitHub_Repositories-black?style=for-the-badge&logo=github)](https://github.com/misbah7172?tab=repositories)
-[![Read My Blogs](https://img.shields.io/badge/📝_Read_Blogs-Technical_Articles-orange?style=for-the-badge&logo=rss)](https://github.com/misbah7172/Blogs)
+[![Read My Blogs](https://img.shields.io/badge/📝_Read_Blogs-orange?style=for-the-badge&logo=rss)](https://blog-post-u86b.vercel.app/)
 
 </div>
 

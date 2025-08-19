@@ -60,7 +60,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cut
 
 <div align="center">
 
-### 🚀 Check out my projects and blog posts!
+### 🚀 Check out my blog posts!
 
 [![Read My Blogs](https://img.shields.io/badge/📝_Read_Blogs-orange?style=for-the-badge&logo=rss)](https://blog-post-u86b.vercel.app/)
 

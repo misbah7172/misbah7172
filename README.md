@@ -32,6 +32,10 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cut
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=misbah7172&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
+<div>
+    ![Code Lines](https://tokei.rs/b1/github/misbah7172/REPO_NAME?category=code&style=flat-square&color=green)
+</div>
+
 ---
 
 ## 🏆 Achievements & Experience

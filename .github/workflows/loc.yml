@@ -2,29 +2,35 @@ name: Total Lines of Code
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # update weekly
+    - cron: "*/5 * * * *"  # Runs every 5 minutes
   workflow_dispatch:
 
 jobs:
   count:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout your profile repo
       - name: Checkout profile repo
         uses: actions/checkout@v3
 
-      - name: Install cloc
-        run: sudo apt-get install -y cloc
+      # Step 2: Install dependencies
+      - name: Install cloc, jq, and GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cloc jq gh
 
-      - name: Clone all public repos
+      # Step 3: Clone all public repos
+      - name: Clone all public repositories
         run: |
           mkdir repos
           cd repos
-          gh repo list misbah7172 --public --limit 100 --json nameWithOwner -q '.[].nameWithOwner' | \
+          gh repo list misbah7172 --public --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | \
           xargs -L1 gh repo clone
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Count lines
+      # Step 4: Count total lines of code
+      - name: Count lines of code
         run: |
           cd repos
           cloc . --json --quiet > ../loc.json
@@ -32,6 +38,7 @@ jobs:
           total=$(jq '.SUM.code' loc.json)
           echo "TOTAL_LOC=$total" >> $GITHUB_ENV
 
+      # Step 5: Generate badge
       - name: Generate badge
         uses: emibcn/badge-action@v1
         with:
@@ -40,11 +47,17 @@ jobs:
           color: blue
           path: badge.svg
 
+      # Step 6: Commit badge to README-assets
       - name: Commit badge
         run: |
+          mkdir -p README-assets
           mv badge.svg README-assets/loc-badge.svg
           git config --global user.name "misbah7172"
           git config --global user.email "misbah244176@gmail.com"
           git add README-assets/loc-badge.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git commit -m "Update total LOC badge"
           git push

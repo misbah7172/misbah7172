@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** specializing in cut
 </div>
 
 <div>
-    ![Code Lines](https://tokei.rs/b1/github/misbah7172/REPO_NAME?category=code&style=flat-square&color=green)
+    ![Total LOC](./README-assets/loc-badge.svg)
 </div>
 
 ---

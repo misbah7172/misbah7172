@@ -43,8 +43,8 @@ jobs:
       - name: Commit badge
         run: |
           mv badge.svg README-assets/loc-badge.svg
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "misbah7172"
+          git config --global user.email "misbah244176@gmail.com"
           git add README-assets/loc-badge.svg
           git commit -m "Update total LOC badge"
           git push

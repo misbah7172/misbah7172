@@ -1,0 +1,50 @@
+name: Total Lines of Code
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # update weekly
+  workflow_dispatch:
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v3
+
+      - name: Install cloc
+        run: sudo apt-get install -y cloc
+
+      - name: Clone all public repos
+        run: |
+          mkdir repos
+          cd repos
+          gh repo list misbah7172 --public --limit 100 --json nameWithOwner -q '.[].nameWithOwner' | \
+          xargs -L1 gh repo clone
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Count lines
+        run: |
+          cd repos
+          cloc . --json --quiet > ../loc.json
+          cd ..
+          total=$(jq '.SUM.code' loc.json)
+          echo "TOTAL_LOC=$total" >> $GITHUB_ENV
+
+      - name: Generate badge
+        uses: emibcn/badge-action@v1
+        with:
+          label: "Total LOC"
+          status: ${{ env.TOTAL_LOC }}
+          color: blue
+          path: badge.svg
+
+      - name: Commit badge
+        run: |
+          mv badge.svg README-assets/loc-badge.svg
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README-assets/loc-badge.svg
+          git commit -m "Update total LOC badge"
+          git push
